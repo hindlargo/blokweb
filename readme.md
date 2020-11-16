@@ -73,7 +73,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je focus:** -kies uit responsive -
 
-**Je opdracht:** -link naar de website die je gaat namake-
+**Je opdracht:** -link naar de website die je gaat namaken-
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
