@@ -38,7 +38,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+-Ik vond het best lastig om weer te wennen aan programmeren. Ik ben hier persoonlijk niet zo goed in. Het gaat voor nu wel oke.-
 
 **Screenshot(s):**
 
