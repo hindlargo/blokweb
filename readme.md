@@ -29,8 +29,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Voortgang 2 (week 5)
-
--same as voortgang 1-
+Ik ben bezig geweest met mijn menu en like button werkend te krijgen.
+<img src="images/Scherm1..png" alt="Scherm1">
+<img src="images/Scherm2..png" alt="Scherm2">
+<img src="images/Scherm3..png" alt="Scherm3">
 
 
 
