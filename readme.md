@@ -39,7 +39,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 <img src="images/7..png" alt="Scherm7">
 <img src="images/8..png" alt="Scherm8">
 <img src="images/9..png" alt="Scherm9">
-
+<img src="images/foto1..png" alt="Scherm1">
+<img src="images/foto2..png" alt="Scherm2">
 
 
 
