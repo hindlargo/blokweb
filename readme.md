@@ -26,9 +26,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 <img src="images/foto.png" alt="Scherm1">
 <img src="images/foto1.png" alt="Scherm2">
-<img src="images/foto2.png" alt="Scherm3">
+<img src="images/foto4.png" alt="Scherm3">
 <img src="images/foto3.png" alt="Scherm2">
-<img src="images/foto3.png" alt="Scherm3">
+<img src="images/foto2.png" alt="Scherm3">
 <img src="images/foto5.png" alt="Scherm2">
 
 
