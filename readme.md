@@ -14,11 +14,35 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+Door tijdnood heb ik er niet van kunnen maken wat ik wilde. Dit blok is een heel druk blok voor me, waardoor het niet helemaal is gegaan als hoe ik gehoopt had.
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+<img src="images/foto.png" alt="Scherm1">
+<img src="images/foto1.png" alt="Scherm2">
+<img src="images/foto3.png" alt="Scherm3">
+<img src="images/foto2.png" alt="Scherm4">
+<img src="images/foto5.png" alt="Scherm5">
+<img src="images/foto4.png" alt="Scherm6">
+<img src="images/1.1..png" alt="Scherm1">
+<img src="images/2..png" alt="Scherm2">
+<img src="images/3..png" alt="Scherm3">
+<img src="images/4..png" alt="Scherm4">
+<img src="images/5..png" alt="Scherm5">
+<img src="images/6..png" alt="Scherm6">
+<img src="images/7..png" alt="Scherm7">
+<img src="images/8..png" alt="Scherm8">
+<img src="images/9..png" alt="Scherm9">
+<img src="images/foto1..png" alt="Scherm1">
+<img src="images/foto2..png" alt="Scherm2">
+<img src="images/1-.png" alt="Scherm1">
+<img src="images/2-.png" alt="Scherm2">
+<img src="images/3-.png" alt="Scherm3">
+<img src="images/4-.png" alt="Scherm4">
+<img src="images/5-.png" alt="Scherm5">
+<img src="images/6-.png" alt="Scherm6">
+<img src="images/7-.png" alt="Scherm7">
+
 
 
 
