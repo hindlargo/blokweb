@@ -1,17 +1,39 @@
+
 body{
   margin: 0;
   font-family: "Moon Flower Bold", sans-serif;
-}
+  padding: 1em;
 
-header{
-  display: flex;
-  justify-content: space-between;
 }
 
 header button:first-of-type{
     z-index: 200;
     position: relative;
 }
+
+h1{ 
+    padding: 50px;
+}
+
+img {
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+li{
+    list-style-type: none;
+}
+
+li a {
+    text-decoration:none;
+    color: black;
+    font-size: 25px;
+    padding: 50px;
+}
+
 
 nav {
     order:-1;
@@ -21,7 +43,6 @@ nav ul {
     position: fixed;
     margin: 0;
     padding: 2.5em  0 0;
-
     top: 0; left:0;
     width: 50%;
     bottom:0;
@@ -35,7 +56,6 @@ nav ul.open{
 }
 
 nav ul li{
-    list-style-type: none;
     align-content: space-around;
 }
  
@@ -44,16 +64,22 @@ nav ul li a{
     display: block;
     text-decoration:none; 
     color: white;
+    font-size: 16px;
     background-color: #39CCBA;
-    width: 23%;
     text-align: center;
-    margin: 0;
-
 }
 
 
-img {
-    border-radius: 8px;
-    max-width: 100%;
-    height: auto;
+
+footer {
+    text-decoration:none; 
+    color: #f7cbc8;
+    align-content: space-around;
+    background-color: #f7cbc8;
+
+}
+
+footer ul li a {
+    text-decoration:none;
+    color: white; 
 }
